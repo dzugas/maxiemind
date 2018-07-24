@@ -1,0 +1,27 @@
+{
+  "name": "maxiemind",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzugas/maxiemind.git"
+  },
+  "author": "dzugas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzugas/maxiemind/issues"
+  },
+  "homepage": "https://github.com/dzugas/maxiemind#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.0.1",
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
